@@ -8,7 +8,7 @@
             "name": "test_iris_subtract_bg_flat",
             "members": [
                 {
-                    "expname": "sci.fits",
+                    "expname": "sci_iris_model.fits",
                     "exptype": "science"
                 },
                 {
