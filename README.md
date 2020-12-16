@@ -1,3 +1,7 @@
+## DISCOUNTINUED
+
+Now tests are part of the `iris_pipeline` documentation
+
 # IRIS data reduction tests
 
 Tests performed for the design, debugging and implementation
